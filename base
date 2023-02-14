@@ -1,0 +1,15 @@
+
+<html>
+<head>
+    <title>💡🪶🌞Ensure_Light_With_Ai💡🪶🌞</title>
+    <link rel="icon" href="https://user-images.githubusercontent.com/121967479/212339621-91d2e248-39a2-4759-aea2-01c66edd571d.jpg">
+</head>
+        <body  >
+        <a href="/">HOME</a><br>
+        
+        {% block content %}
+        {% endblock %}
+    </body>
+
+
+</html>
